@@ -1,6 +1,4 @@
-
-
-
+#!/usr/bin/env node
 
 // when piping to another cmd this handles truncated output
 process.stdout.on('error', function(err) {

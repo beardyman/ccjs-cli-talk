@@ -1,6 +1,4 @@
-
-
-
+#!/usr/bin/env node
 
 process.stdin.setEncoding('utf8');
 
